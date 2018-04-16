@@ -3,7 +3,7 @@
 ## Autor : Aleksander Zdybel
 
 
-### Zbudowanie projektu : 
+### Budowanie projektu : 
 ##### git clone https://github.com/amQel/mongoDB.git
 ##### cd mongoDB/
 ##### mvn clean compile
