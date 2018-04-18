@@ -7,7 +7,7 @@
 ##### git clone https://github.com/amQel/mongoDB.git
 ##### cd mongoDB/
 ##### mvn clean compile
-##### import.sh
+##### ./import.sh
 ##### mvn exec:java -Dexec.mainClass="com.mkyong.core.IndexWorldCities"
 ### Uruchomienie projektu :
 
