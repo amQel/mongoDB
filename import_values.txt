@@ -111,4 +111,4 @@ imported 3173000 documents
 0inputs+0outputs (4major+2140minor)pagefaults 0swaps
 
 Average : 
-74.652user 9.65ystem 1:23:22
+75.44user 9.42ystem 2:25:43elapsed
