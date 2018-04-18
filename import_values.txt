@@ -1,0 +1,114 @@
+standalone : 
+
+imported 3173958 documents
+74.12user 9.30system 0:57.22elapsed 145%CPU (0avgtext+0avgdata 11560maxresident)k
+
+imported 3173958 documents
+69.57user 8.42system 1:08.16elapsed 114%CPU (0avgtext+0avgdata 12052maxresident)k
+
+imported 3173958 documents
+66.22user 7.90system 1:07.18elapsed 110%CPU (0avgtext+0avgdata 12044maxresident)k
+0inputs+0outputs (0major+2257minor)pagefaults 0swaps
+
+imported 3173958 documents
+72.15user 9.21system 1:03.46elapsed 128%CPU (0avgtext+0avgdata 12332maxresident)k
+
+imported 3173958 documents
+75.91user 9.19system 0:57.99elapsed 146%CPU (0avgtext+0avgdata 11552maxresident)k
+
+Average : 
+71.82user 8.59system 1:02.29
+
+replica set :
+'{w:1,j:false,wtimeout:500}' : 	
+imported 3173958 documents
+74.72user 10.07system 1:16.14elapsed 111%CPU (0avgtext+0avgdata 12252maxresident)k
+
+imported 3173958 documents
+73.72user 9.85system 1:19.55elapsed 105%CPU (0avgtext+0avgdata 12332maxresident)k
+
+imported 3173958 documents
+73.74user 9.84system 1:17.28elapsed 108%CPU (0avgtext+0avgdata 12204maxresident)k
+
+imported 3173958 documents
+73.74user 9.84system 1:16.57elapsed 107%CPU (0avgtext+0avgdata 12262maxresident)k
+
+imported 3173958 documents
+74.64user 9.84system 1:17.29elapsed 108%CPU (0avgtext+0avgdata 12204maxresident)k
+
+Average : 
+74.112user 9.888system 1:17.366
+
+'{w:1,j:true,wtimeout:500}' : 
+
+imported 3173958 documents
+76.81user 9.73system 4:15.82elapsed 33%CPU (0avgtext+0avgdata 12752maxresident)k
+0inputs+0outputs (4major+2307minor)pagefaults 0swaps
+
+imported 3173958 documents
+77.24user 9.68system 3:59.82elapsed 36%CPU (0avgtext+0avgdata 12236maxresident)k
+0inputs+0outputs (4major+2035minor)pagefaults 0swaps
+
+imported 3173958 documents
+77.15user 9.63system 3:59.24elapsed 36%CPU (0avgtext+0avgdata 12480maxresident)k
+0inputs+0outputs (4major+2248minor)pagefaults 0swaps
+
+imported 3173958 documents
+74.01user 9.29system 4:44.23elapsed 29%CPU (0avgtext+0avgdata 12988maxresident)k
+0inputs+0outputs (4major+2258minor)pagefaults 0swaps
+
+imported 3173958 documents
+77.05user 9.86system 3:52.26elapsed 37%CPU (0avgtext+0avgdata 12800maxresident)k
+16inputs+0outputs (5major+2170minor)pagefaults 0swaps
+
+Average : 
+76.452user 9.67ystem 4:10.55
+
+'{w:2,j:false,wtimeout:500}' : 
+
+imported 3173000 documents
+75.36user 9.92system 1:20.13elapsed 106%CPU (0avgtext+0avgdata 12348maxresident)k
+
+imported 3173000 documents
+75.70user 9.76system 1:20.79elapsed 105%CPU (0avgtext+0avgdata 12420maxresident)k
+
+imported 3173000 documents
+74.17user 9.69system 1:30.67elapsed 92%CPU (0avgtext+0avgdata 12392maxresident)k
+
+imported 3173000 documents
+75.70user 9.76system 1:25.12elapsed 101%CPU (0avgtext+0avgdata 12396maxresident)k
+
+imported 3173000 documents
+69.05user 8.19system 1:19.85elapsed 96%CPU (0avgtext+0avgdata 11636maxresident)k
+
+Average : 
+74.652user 9.65ystem 1:23:22
+
+'{w:2,j:true,wtimeout:500}' : 
+
+imported 3173000 documents
+75.74 user 9.14 system 4:12.59 elapsed 33%CPU (0avgtext+0avgdata 12444maxresident)k
+0inputs+0outputs (4major+2137minor)pagefaults 0swaps
+
+imported 3173000 documents
+76.10user 9.13system 4:03.41elapsed 35%CPU (0avgtext+0avgdata 12760maxresident)k
+0inputs+0outputs (4major+2331minor)pagefaults 0swaps
+
+imported 3173000 documents
+78.20user 9.37system 1:20.32elapsed 109%CPU (0avgtext+0avgdata 12000maxresident)k
+0inputs+0outputs (1major+2230minor)pagefaults 0swaps
+
+imported 3173000 documents
+78.20user 9.37system 1:20.32elapsed 109%CPU (0avgtext+0avgdata 12000maxresident)k
+0inputs+0outputs (1major+2230minor)pagefaults 0swaps
+
+imported 3173000 documents
+70.99user 8.67system 1:31.46elapsed 87%CPU (0avgtext+0avgdata 12564maxresident)k
+0inputs+0outputs (0major+2152minor)pagefaults 0swaps
+
+imported 3173000 documents
+74.58user 9.81system 1:24.53elapsed 99%CPU (0avgtext+0avgdata 12516maxresident)k
+0inputs+0outputs (4major+2140minor)pagefaults 0swaps
+
+Average : 
+74.652user 9.65ystem 1:23:22
