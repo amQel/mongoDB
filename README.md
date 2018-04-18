@@ -25,20 +25,6 @@ mvn exec:java -Dexec.mainClass="com.mkyong.core.Reset"
 
 #### git sizer result :
 
-Processing blobs: 12             
-
-Processing trees: 17            
-
-Processing commits: 6                        
-
-Matching commits to trees: 6                        
-
-Processing annotated tags: 0                        
-
-Processing references: 3                        
-
-No problems above the current threshold were found
-
 azdybel@linux-p25-21:~/wbzyl/mongoDB$ ./git-sizer --verbose
 
 Processing blobs: 12                        
