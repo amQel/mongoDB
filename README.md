@@ -25,7 +25,7 @@ mvn exec:java -Dexec.mainClass="com.mkyong.core.Reset"
 
 #### git sizer result :
 
-azdybel@linux-p25-21:~/wbzyl/mongoDB$ ./git-sizer --verbose
+mongoDB$ ./git-sizer --verbose
 
 Processing blobs: 12                        
 
